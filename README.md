@@ -148,7 +148,7 @@ Security control and investigations
 
 ## To whom can we communicate your information?
 
-SACAGAMA websites have message boards, forums and chat areas, where users can exchange ideas and communicate with each other. When posting to a message board, forum, or chat area, you should be aware that such information will be available to the public online and you do so at your own risk. In certain forums, anyone who makes or replies to a post can do so with their Real ID (that is, their full first and last name), with the option to also display the name of their main game character (see the section on Real ID below).
+SACAGAMA websites have message boards, forums and chat areas, where users can exchange ideas and communicate with each other. When posting to a message board, forum, or chat area, you should be aware that such information will be available to the public online and you do so at your own risk.
 
 With partners and service providers. SACAGAMA may provide information to its distributors, consultants, marketing partners, research companies and other service providers or business partners.
 
