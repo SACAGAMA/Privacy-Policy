@@ -21,7 +21,7 @@ In order to ensure the performance of certain games and platform services, SACAG
 
 We collect information about you or provided by you in the following ways:
 
-**Information You Provide** Online visitors typically provide information to Blizzard through one of the following ways: (1) account registration, (2) ranking services and achievement system, or (3) customer service customer or technical support. The information collected may consist of your name, username, country of residence and email address. This information is not necessary in order to access our websites; however, if you do not provide it, you will not be able to use certain services or features that require registration.
+**Information You Provide** Online visitors typically provide information to SACAGAMA through one of the following ways: (1) account registration, (2) ranking services and achievement system, or (3) customer service customer or technical support. The information collected may consist of your name, username, country of residence and email address. This information is not necessary in order to access our websites; however, if you do not provide it, you will not be able to use certain services or features that require registration.
 
 **Information we obtain or generate from your use of our games or services.**We collect information related to your gameplay or activity in the games, the services you use and how you use them, as well as your devices and activities when you install or access our services.
 
@@ -154,7 +154,7 @@ With partners and service providers. SACAGAMA may provide information to its dis
 
 With other players or the general public. If you play our games, use certain features of our games, some information may be viewed by other players.
 
-Like any company, your personal information constitutes an asset of SACAGAMA that will become part of our regular records. In this sense, we may communicate your personal information to a third party in the event that we decide to sell a line of business to it and in order that you can continue to receive service and information in relation to that line of business with the least inconvenience possible. . Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar situation, your personal information may be transferred to Blizzard's successor or assignee.
+Like any company, your personal information constitutes an asset of SACAGAMA that will become part of our regular records. In this sense, we may communicate your personal information to a third party in the event that we decide to sell a line of business to it and in order that you can continue to receive service and information in relation to that line of business with the least inconvenience possible. . Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar situation, your personal information may be transferred to SACAGAMA successor or assignee.
 
 For legal reasons or in case of conflict. SACAGAMA may communicate your information if it considers that it is required by applicable legislation or regulations, operating agreements, legal processes or official requests, for example, with law enforcement officers, government authorities and other third parties in case it is necessary to apply our End User License Agreement, our user agreements and other policies in order to protect the rights or property of SACAGAMA or other parties, or in the event of a claim or dispute regarding your use of our services.
 
